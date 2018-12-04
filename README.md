@@ -1,1 +1,1 @@
-# DL_Lab_Ex3_CV
+# DL_Lab_exercise3_CV_ML
